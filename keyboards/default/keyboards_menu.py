@@ -8,9 +8,11 @@ kb_menu = ReplyKeyboardMarkup(
         ],
         [
             KeyboardButton(text='77'),
+            KeyboardButton(text='777'),
         ],
         [
-            KeyboardButton(text='777'),
+            KeyboardButton(text='Inline Keyboards'),
+            KeyboardButton(text='Любой текст'),
         ]
     ],
     resize_keyboard=True
